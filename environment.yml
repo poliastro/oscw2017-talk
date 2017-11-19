@@ -1,0 +1,7 @@
+name: poliastro36
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.6
+- poliastro=0.8
