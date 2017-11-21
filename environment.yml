@@ -1,7 +1,9 @@
 name: poliastro36
 channels:
+- damianavila82
 - conda-forge
 - defaults
 dependencies:
 - python=3.6
 - poliastro=0.8
+- rise
